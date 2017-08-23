@@ -6,15 +6,17 @@ import {
 	StyleSheet,
 } from 'react-native';
 
+import { connect } from 'react-redux';
 import Todo from './todo';
+import { toggleTodo } from '../redux/actions'
 
-export default class TodoList extends Component {
+class TodoList extends Component {
 	render() {
 		let { todos, onTodoClick } = this.props
 		return (
 			<View style={styles.container}>
 				{
-					todos.map(todo => 
+					todos && todos.map(todo => 
 						<Todo 
 							key={todo.id}
 							{...todo}
@@ -27,6 +29,26 @@ export default class TodoList extends Component {
 	}
 }
 
+const mapStateToProps = (state) => {
+	return {
+		todos: state
+	}
+}
+
+const mapDispatchToProps = (dispatch) => {
+	return {
+		onTodoClick: id => {
+      dispatch(toggleTodo(id))
+    }
+	}
+}
+
+
+TodoList = connect(
+	mapStateToProps,
+	mapDispatchToProps)
+(TodoList)
+
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
@@ -34,3 +56,5 @@ const styles = StyleSheet.create({
 		alignItems: 'center',
 	}
 })
+
+export default TodoList
