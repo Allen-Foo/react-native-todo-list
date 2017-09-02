@@ -4,12 +4,21 @@ import {
 	View,
 	TouchableOpacity,
 	StyleSheet,
+	Dimensions
 } from 'react-native';
 
 import { connect } from 'react-redux';
 import Todo from './todo';
 import { toggleTodo } from '../redux/actions'
 
+const {width, height} = Dimensions.get('window');
+
+/**
+ * @class todoList is composed of a list of todo items
+ *
+ * @props todos an array of todos
+ * @props onTodoClick the action when user clicks on a to do item
+ */
 class TodoList extends Component {
 	render() {
 		let { todos, onTodoClick } = this.props
@@ -52,8 +61,9 @@ TodoList = connect(
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
-		justifyContent: 'center',
-		alignItems: 'center',
+		justifyContent: 'flex-start',
+		width: width,
+		//alignItems: 'center',
 	}
 })
 
