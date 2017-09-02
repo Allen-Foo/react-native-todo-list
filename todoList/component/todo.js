@@ -7,6 +7,13 @@ import {
 	StyleSheet,
 } from 'react-native';
 
+
+/**
+ * The todo items.
+ * @reactProps {!boolean} completed - the status of the todo item
+ * @reactProps {!function} onPress - action when press on the todo item
+ * @reactProps {!string} text - the content of the todo item
+ */
 export default class Todo extends Component {
 	render() {
 		const { completed, onPress, text } = this.props;

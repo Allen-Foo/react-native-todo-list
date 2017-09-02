@@ -1,0 +1,936 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "component/.external-ecmascript.js",
+    "static": true,
+    "longname": "component/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "component/addTodo.js",
+    "content": "// addTodo.js\nimport React, { Component } from 'react';\nimport {\n\tView,\n\tTouchableOpacity,\n\tText,\n\tTextInput,\n\tStyleSheet,\n\tKeyboard,\n} from 'react-native';\n\nimport {connect} from 'react-redux';\nimport { addTodo } from '../redux/actions'\n\n/**\n * a textInput and a button for user to add a todo item\n *\n * @reactProps {function} addTodo - the action when user clicks on the add button\n */\n\nclass AddTodo extends Component {\n\tconstructor(props) {\n\t\tsuper(props)\n\t\tthis.state = {\n\t\t\ttodo: undefined\n\t\t}\n\t}\n\n\trender() {\n\t\treturn (\n\t\t\t<View style={styles.container}>\n\t\t\t\t<TextInput\n\t\t\t\t\tstyle={styles.textInput}\n\t\t\t\t\tonChangeText={text => this.setState({todo: text})}\n\t\t\t\t\tclearButtonMode={'while-editing'}\n\t\t\t\t/>\n\t\t\t\t<TouchableOpacity\n\t\t\t\t\tstyle={styles.button}\n\t\t\t\t  onPress={() =>{\n\t\t\t\t\t\tKeyboard.dismiss()\n\t\t\t\t\t\tthis.props.addTodo(this.state.todo)\n\t\t\t\t\t}} \n\t\t\t\t>\n\t\t\t\t\t<Text> Add </Text>\n\t\t\t\t</TouchableOpacity>\n\t\t\t</View>\n\t\t)\n\t}\n}\n\n\nconst styles = StyleSheet.create({\n\tcontainer: {\n\t\tflexDirection: 'row',\n\t\tpaddingTop: 20,\n\t\theight: 50,\n\t},\n\ttextInput: {\n\t\twidth: 200,\n\t\tborderWidth: 1,\n\t},\n\tbutton: {\n\t\talignItems: 'center',\n\t\tjustifyContent: 'center',\n\t\tmarginLeft: 10\n\t}\n})\n\nAddTodo = connect(null, { addTodo })(AddTodo)\n\nexport default AddTodo",
+    "static": true,
+    "longname": "/Users/Allen/react-native-todo-list/todoList/component/addTodo.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "component/addTodo.js",
+    "static": true,
+    "longname": "component/addTodo.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/addTodo.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 52,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "class",
+    "name": "AddTodo",
+    "memberof": "component/addTodo.js",
+    "static": true,
+    "longname": "component/addTodo.js~AddTodo",
+    "access": "public",
+    "export": true,
+    "importPath": "todoList/component/addTodo.js",
+    "importStyle": "AddTodo",
+    "description": "a textInput and a button for user to add a todo item",
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} addTodo - the action when user clicks on the add button"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 51,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "component/addTodo.js~AddTodo",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "component/addTodo.js~AddTodo#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "state",
+    "memberof": "component/addTodo.js~AddTodo",
+    "static": false,
+    "longname": "component/addTodo.js~AddTodo#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"todo\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "render",
+    "memberof": "component/addTodo.js~AddTodo",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "component/addTodo.js~AddTodo#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 29,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "component/todo.js",
+    "content": "// todo.js\nimport React, { Component } from 'react';\nimport {\n\tView,\n\tTouchableOpacity,\n\tText,\n\tStyleSheet,\n} from 'react-native';\n\n\n/**\n * The todo items.\n * @reactProps {!boolean} completed - the status of the todo item\n * @reactProps {!function} onPress - action when press on the todo item\n * @reactProps {!string} text - the content of the todo item\n */\nexport default class Todo extends Component {\n\trender() {\n\t\tconst { completed, onPress, text } = this.props;\n\t\treturn (\n\t\t\t<TouchableOpacity onPress={onPress}>\n\t\t\t\t<View style={styles.container}>\n\t\t\t\t\t<Text\n\t\t\t\t\t  style={StyleSheet.flatten([\n\t\t\t\t\t  \tstyles.text, \n\t\t\t\t\t  \t{\n\t\t\t\t\t  \t\ttextDecorationLine: completed ? 'line-through' : 'none',\n\t\t\t\t\t  \t\tcolor: completed ? 'green' : 'red',\n\t\t\t\t\t  \t}\n\t\t\t\t\t  ])} \n\t\t\t\t\t>\n\t\t\t\t\t\t{text}\n\t\t\t\t\t</Text>\n\t\t\t\t</View>\n\t\t\t</TouchableOpacity>\n\t\t)\n\t}\n}\n\nconst styles = StyleSheet.create({\n\ttext: {\n\t\tfontSize: 24,\n\t},\n\tcontainer: {\n\t\tborderBottomWidth: 1,\n\t\tborderBottomColor: 'black',\n\t\tmarginHorizontal: 20,\n\t\tpaddingVertical: 10,\n\t}\n})",
+    "static": true,
+    "longname": "/Users/Allen/react-native-todo-list/todoList/component/todo.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "class",
+    "name": "Todo",
+    "memberof": "component/todo.js",
+    "static": true,
+    "longname": "component/todo.js~Todo",
+    "access": "public",
+    "export": true,
+    "importPath": "todoList/component/todo.js",
+    "importStyle": "Todo",
+    "description": "The todo items.",
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{!boolean} completed - the status of the todo item"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{!function} onPress - action when press on the todo item"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{!string} text - the content of the todo item"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 56,
+    "kind": "method",
+    "name": "render",
+    "memberof": "component/todo.js~Todo",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "component/todo.js~Todo#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "component/todo.js",
+    "static": true,
+    "longname": "component/todo.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/todo.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 40,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "component/todoList.js",
+    "content": "// todoList.js\nimport React, { Component } from 'react';\nimport {\n\tView,\n\tTouchableOpacity,\n\tStyleSheet,\n\tDimensions\n} from 'react-native';\n\nimport { connect } from 'react-redux';\nimport Todo from './todo';\nimport { toggleTodo } from '../redux/actions'\n\nconst {width, height} = Dimensions.get('window');\n\n/**\n * The todo list \n *\n * @reactProps {object} todos - an array of todos\n * @reactProps {function} onTodoClick - the action when user clicks on a to do item\n */\nclass TodoList extends Component {\n\trender() {\n\t\tlet { todos, onTodoClick } = this.props\n\t\treturn (\n\t\t\t<View style={styles.container}>\n\t\t\t\t{\n\t\t\t\t\ttodos && todos.map(todo => \n\t\t\t\t\t\t<Todo \n\t\t\t\t\t\t\tkey={todo.id}\n\t\t\t\t\t\t\t{...todo}\n\t\t\t\t\t\t\tonPress={() => onTodoClick(todo.id)}\n\t\t\t\t\t\t/>\n\t\t\t\t\t)\n\t\t\t\t}\n\t\t\t</View>\n\t\t)\n\t}\n}\n\nconst mapStateToProps = (state) => {\n\treturn {\n\t\ttodos: state\n\t}\n}\n\nconst mapDispatchToProps = (dispatch) => {\n\treturn {\n\t\tonTodoClick: id => {\n      dispatch(toggleTodo(id))\n    }\n\t}\n}\n\n\nTodoList = connect(\n\tmapStateToProps,\n\tmapDispatchToProps)\n(TodoList)\n\nconst styles = StyleSheet.create({\n\tcontainer: {\n\t\tflex: 1,\n\t\tjustifyContent: 'flex-start',\n\t\twidth: width,\n\t\t//alignItems: 'center',\n\t}\n})\n\nexport default TodoList",
+    "static": true,
+    "longname": "/Users/Allen/react-native-todo-list/todoList/component/todoList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "width",
+    "memberof": "component/todoList.js",
+    "static": true,
+    "longname": "component/todoList.js~width",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/todoList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "mapStateToProps",
+    "memberof": "component/todoList.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "component/todoList.js~mapStateToProps",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/todoList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "params": [
+      {
+        "name": "state",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"todos\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "mapDispatchToProps",
+    "memberof": "component/todoList.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "component/todoList.js~mapDispatchToProps",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/todoList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dispatch",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"onTodoClick\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "component/todoList.js",
+    "static": true,
+    "longname": "component/todoList.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "todoList/component/todoList.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 61,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "class",
+    "name": "TodoList",
+    "memberof": "component/todoList.js",
+    "static": true,
+    "longname": "component/todoList.js~TodoList",
+    "access": "public",
+    "export": true,
+    "importPath": "todoList/component/todoList.js",
+    "importStyle": "TodoList",
+    "description": "The todo list ",
+    "lineNumber": 22,
+    "unknown": [
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{object} todos - an array of todos"
+      },
+      {
+        "tagName": "@reactProps",
+        "tagValue": "{function} onTodoClick - the action when user clicks on a to do item"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "method",
+    "name": "render",
+    "memberof": "component/todoList.js~TodoList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "component/todoList.js~TodoList#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).\n\nBelow you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).\n\n## Table of Contents\n\n* [Updating to New Releases](#updating-to-new-releases)\n* [Available Scripts](#available-scripts)\n  * [npm start](#npm-start)\n  * [npm test](#npm-test)\n  * [npm run ios](#npm-run-ios)\n  * [npm run android](#npm-run-android)\n  * [npm run eject](#npm-run-eject)\n* [Writing and Running Tests](#writing-and-running-tests)\n* [Environment Variables](#environment-variables)\n  * [Configuring Packager IP Address](#configuring-packager-ip-address)\n* [Adding Flow](#adding-flow)\n* [Customizing App Display Name and Icon](#customizing-app-display-name-and-icon)\n* [Sharing and Deployment](#sharing-and-deployment)\n  * [Publishing to Expo's React Native Community](#publishing-to-expos-react-native-community)\n  * [Building an Expo \"standalone\" app](#building-an-expo-standalone-app)\n  * [Ejecting from Create React Native App](#ejecting-from-create-react-native-app)\n    * [Build Dependencies (Xcode & Android Studio)](#build-dependencies-xcode-android-studio)\n    * [Should I Use ExpoKit?](#should-i-use-expokit)\n* [Troubleshooting](#troubleshooting)\n  * [Networking](#networking)\n  * [iOS Simulator won't open](#ios-simulator-wont-open)\n  * [QR Code does not scan](#qr-code-does-not-scan)\n\n## Updating to New Releases\n\nYou should only need to update the global installation of `create-react-native-app` very rarely, ideally never.\n\nUpdating the `react-native-scripts` dependency of your app should be as simple as bumping the version number in `package.json` and reinstalling your project's dependencies.\n\nUpgrading to a new version of React Native requires updating the `react-native`, `react`, and `expo` package versions, and setting the correct `sdkVersion` in `app.json`. See the [versioning guide](https://github.com/react-community/create-react-native-app/blob/master/VERSIONS.md) for up-to-date information about package version compatibility.\n\n## Available Scripts\n\nIf Yarn was installed when the project was initialized, then dependencies will have been installed via Yarn, and you should probably use it to run these commands as well. Unlike dependency installation, command running syntax is identical for Yarn and NPM at the time of this writing.\n\n### `npm start`\n\nRuns your app in development mode.\n\nOpen it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.\n\nSometimes you may need to reset or clear the React Native packager's cache. To do so, you can pass the `--reset-cache` flag to the start script:\n\n```\nnpm start -- --reset-cache\n# or\nyarn start -- --reset-cache\n```\n\n#### `npm test`\n\nRuns the [jest](https://github.com/facebook/jest) test runner on your tests.\n\n#### `npm run ios`\n\nLike `npm start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.\n\n#### `npm run android`\n\nLike `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup). We also recommend installing Genymotion as your Android emulator. Once you've finished setting up the native build environment, there are two options for making the right copy of `adb` available to Create React Native App:\n\n##### Using Android Studio's `adb`\n\n1. Make sure that you can run adb from your terminal.\n2. Open Genymotion and navigate to `Settings -> ADB`. Select “Use custom Android SDK tools” and update with your [Android SDK directory](https://stackoverflow.com/questions/25176594/android-sdk-location).\n\n##### Using Genymotion's `adb`\n\n1. Find Genymotion’s copy of adb. On macOS for example, this is normally `/Applications/Genymotion.app/Contents/MacOS/tools/`.\n2. Add the Genymotion tools directory to your path (instructions for [Mac](http://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/), [Linux](http://www.computerhope.com/issues/ch001647.htm), and [Windows](https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/)).\n3. Make sure that you can run adb from your terminal.\n\n#### `npm run eject`\n\nThis will start the process of \"ejecting\" from Create React Native App's build scripts. You'll be asked a couple of questions about how you'd like to build your project.\n\n**Warning:** Running eject is a permanent action (aside from whatever version control system you use). An ejected app will require you to have an [Xcode and/or Android Studio environment](https://facebook.github.io/react-native/docs/getting-started.html) set up.\n\n## Customizing App Display Name and Icon\n\nYou can edit `app.json` to include [configuration keys](https://docs.expo.io/versions/latest/guides/configuration.html) under the `expo` key.\n\nTo change your app's display name, set the `expo.name` key in `app.json` to an appropriate string.\n\nTo set an app icon, set the `expo.icon` key in `app.json` to be either a local path or a URL. It's recommended that you use a 512x512 png file with transparency.\n\n## Writing and Running Tests\n\nThis project is set up to use [jest](https://facebook.github.io/jest/) for tests. You can configure whatever testing strategy you like, but jest works out of the box. Create test files in directories called `__tests__` or with the `.test` extension to have the files loaded by jest. See the [the template project](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/App.test.js) for an example test. The [jest documentation](https://facebook.github.io/jest/docs/getting-started.html) is also a wonderful resource, as is the [React Native testing tutorial](https://facebook.github.io/jest/docs/tutorial-react-native.html).\n\n## Environment Variables\n\nYou can configure some of Create React Native App's behavior using environment variables.\n\n### Configuring Packager IP Address\n\nWhen starting your project, you'll see something like this for your project URL:\n\n```\nexp://192.168.0.2:19000\n```\n\nThe \"manifest\" at that URL tells the Expo app how to retrieve and load your app's JavaScript bundle, so even if you load it in the app via a URL like `exp://localhost:19000`, the Expo client app will still try to retrieve your app at the IP address that the start script provides.\n\nIn some cases, this is less than ideal. This might be the case if you need to run your project inside of a virtual machine and you have to access the packager via a different IP address than the one which prints by default. In order to override the IP address or hostname that is detected by Create React Native App, you can specify your own hostname via the `REACT_NATIVE_PACKAGER_HOSTNAME` environment variable:\n\nMac and Linux:\n\n```\nREACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname' npm start\n```\n\nWindows:\n```\nset REACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname'\nnpm start\n```\n\nThe above example would cause the development server to listen on `exp://my-custom-ip-address-or-hostname:19000`.\n\n## Adding Flow\n\nFlow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb) if you are new to this concept.\n\nReact Native works with [Flow](http://flowtype.org/) out of the box, as long as your Flow version matches the one used in the version of React Native.\n\nTo add a local dependency to the correct Flow version to a Create React Native App project, follow these steps:\n\n1. Find the Flow `[version]` at the bottom of the included [.flowconfig](.flowconfig)\n2. Run `npm install --save-dev flow-bin@x.y.z` (or `yarn add --dev flow-bin@x.y.z`), where `x.y.z` is the .flowconfig version number.\n3. Add `\"flow\": \"flow\"` to the `scripts` section of your `package.json`.\n4. Add `// @flow` to any files you want to type check (for example, to `App.js`).\n\nNow you can run `npm run flow` (or `yarn flow`) to check the files for type errors.\nYou can optionally use a [plugin for your IDE or editor](https://flow.org/en/docs/editors/) for a better integrated experience.\n\nTo learn more about Flow, check out [its documentation](https://flow.org/).\n\n## Sharing and Deployment\n\nCreate React Native App does a lot of work to make app setup and development simple and straightforward, but it's very difficult to do the same for deploying to Apple's App Store or Google's Play Store without relying on a hosted service.\n\n### Publishing to Expo's React Native Community\n\nExpo provides free hosting for the JS-only apps created by CRNA, allowing you to share your app through the Expo client app. This requires registration for an Expo account.\n\nInstall the `exp` command-line tool, and run the publish command:\n\n```\n$ npm i -g exp\n$ exp publish\n```\n\n### Building an Expo \"standalone\" app\n\nYou can also use a service like [Expo's standalone builds](https://docs.expo.io/versions/latest/guides/building-standalone-apps.html) if you want to get an IPA/APK for distribution without having to build the native code yourself.\n\n### Ejecting from Create React Native App\n\nIf you want to build and deploy your app yourself, you'll need to eject from CRNA and use Xcode and Android Studio.\n\nThis is usually as simple as running `npm run eject` in your project, which will walk you through the process. Make sure to install `react-native-cli` and follow the [native code getting started guide for React Native](https://facebook.github.io/react-native/docs/getting-started.html).\n\n#### Should I Use ExpoKit?\n\nIf you have made use of Expo APIs while working on your project, then those API calls will stop working if you eject to a regular React Native project. If you want to continue using those APIs, you can eject to \"React Native + ExpoKit\" which will still allow you to build your own native code and continue using the Expo APIs. See the [ejecting guide](https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md) for more details about this option.\n\n## Troubleshooting\n\n### Networking\n\nIf you're unable to load your app on your phone due to a network timeout or a refused connection, a good first step is to verify that your phone and computer are on the same network and that they can reach each other. Create React Native App needs access to ports 19000 and 19001 so ensure that your network and firewall settings allow access from your device to your computer on both of these ports.\n\nTry opening a web browser on your phone and opening the URL that the packager script prints, replacing `exp://` with `http://`. So, for example, if underneath the QR code in your terminal you see:\n\n```\nexp://192.168.0.1:19000\n```\n\nTry opening Safari or Chrome on your phone and loading\n\n```\nhttp://192.168.0.1:19000\n```\n\nand\n\n```\nhttp://192.168.0.1:19001\n```\n\nIf this works, but you're still unable to load your app by scanning the QR code, please open an issue on the [Create React Native App repository](https://github.com/react-community/create-react-native-app) with details about these steps and any other error messages you may have received.\n\nIf you're not able to load the `http` URL in your phone's web browser, try using the tethering/mobile hotspot feature on your phone (beware of data usage, though), connecting your computer to that WiFi network, and restarting the packager.\n\n### iOS Simulator won't open\n\nIf you're on a Mac, there are a few errors that users sometimes see when attempting to `npm run ios`:\n\n* \"non-zero exit code: 107\"\n* \"You may need to install Xcode\" but it is already installed\n* and others\n\nThere are a few steps you may want to take to troubleshoot these kinds of errors:\n\n1. Make sure Xcode is installed and open it to accept the license agreement if it prompts you. You can install it from the Mac App Store.\n2. Open Xcode's Preferences, the Locations tab, and make sure that the `Command Line Tools` menu option is set to something. Sometimes when the CLI tools are first installed by Homebrew this option is left blank, which can prevent Apple utilities from finding the simulator. Make sure to re-run `npm/yarn run ios` after doing so.\n3. If that doesn't work, open the Simulator, and under the app menu select `Reset Contents and Settings...`. After that has finished, quit the Simulator, and re-run `npm/yarn run ios`.\n\n### QR Code does not scan\n\nIf you're not able to scan the QR code, make sure your phone's camera is focusing correctly, and also make sure that the contrast on the two colors in your terminal is high enough. For example, WebStorm's default themes may [not have enough contrast](https://github.com/react-community/create-react-native-app/issues/49) for terminal QR codes to be scannable with the system barcode scanners that the Expo app uses.\n\nIf this causes problems for you, you may want to try changing your terminal's color theme to have more contrast, or running Create React Native App from a different terminal. You can also manually enter the URL printed by the packager script in the Expo app's search bar to load it manually.\n",
+    "longname": "/Users/Allen/react-native-todo-list/todoList/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"todoList\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"devDependencies\": {\n    \"jest-expo\": \"~19.0.0\",\n    \"react-native-scripts\": \"1.1.0\",\n    \"react-test-renderer\": \"16.0.0-alpha.12\"\n  },\n  \"main\": \"./node_modules/react-native-scripts/build/bin/crna-entry.js\",\n  \"scripts\": {\n    \"start\": \"react-native-scripts start\",\n    \"eject\": \"react-native-scripts eject\",\n    \"android\": \"react-native-scripts android\",\n    \"ios\": \"react-native-scripts ios\",\n    \"test\": \"node node_modules/jest/bin/jest.js --watch\"\n  },\n  \"jest\": {\n    \"preset\": \"jest-expo\"\n  },\n  \"dependencies\": {\n    \"esdoc\": \"^1.0.1\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-jsx-plugin\": \"^1.0.0\",\n    \"esdoc-react-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"expo\": \"^19.0.0\",\n    \"react\": \"16.0.0-alpha.12\",\n    \"react-native\": \"^0.46.1\",\n    \"react-redux\": \"^5.0.6\",\n    \"redux\": \"^3.7.2\"\n  }\n}\n",
+    "longname": "/Users/Allen/react-native-todo-list/todoList/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

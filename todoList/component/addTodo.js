@@ -12,6 +12,12 @@ import {
 import {connect} from 'react-redux';
 import { addTodo } from '../redux/actions'
 
+/**
+ * a textInput and a button for user to add a todo item
+ *
+ * @reactProps {function} addTodo - the action when user clicks on the add button
+ */
+
 class AddTodo extends Component {
 	constructor(props) {
 		super(props)
@@ -60,4 +66,6 @@ const styles = StyleSheet.create({
 	}
 })
 
-export default connect(null, { addTodo })(AddTodo)
+AddTodo = connect(null, { addTodo })(AddTodo)
+
+export default AddTodo

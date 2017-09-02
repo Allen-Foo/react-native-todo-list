@@ -1,0 +1,36 @@
+{
+  "coverage": "21.42%",
+  "expectCount": 14,
+  "actualCount": 3,
+  "files": {
+    "component/addTodo.js": {
+      "expectCount": 5,
+      "actualCount": 1,
+      "undocumentLines": [
+        52,
+        22,
+        24,
+        29
+      ]
+    },
+    "component/todo.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        18,
+        40
+      ]
+    },
+    "component/todoList.js": {
+      "expectCount": 6,
+      "actualCount": 1,
+      "undocumentLines": [
+        14,
+        41,
+        47,
+        61,
+        23
+      ]
+    }
+  }
+}

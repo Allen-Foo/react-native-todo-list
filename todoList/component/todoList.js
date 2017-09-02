@@ -14,10 +14,10 @@ import { toggleTodo } from '../redux/actions'
 const {width, height} = Dimensions.get('window');
 
 /**
- * @class todoList is composed of a list of todo items
+ * The todo list 
  *
- * @props todos an array of todos
- * @props onTodoClick the action when user clicks on a to do item
+ * @reactProps {object} todos - an array of todos
+ * @reactProps {function} onTodoClick - the action when user clicks on a to do item
  */
 class TodoList extends Component {
 	render() {
