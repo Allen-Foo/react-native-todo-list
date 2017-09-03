@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import {
 	View,
 	TouchableOpacity,
-	StyleSheet,
 	Dimensions
 } from 'react-native';
 
@@ -11,7 +10,7 @@ import { connect } from 'react-redux';
 import Todo from './todo';
 import { toggleTodo } from '../redux/actions'
 
-const {width, height} = Dimensions.get('window');
+import { TodoListContainer } from '../styled-components/container'
 
 /**
  * @class todoList is composed of a list of todo items
@@ -23,7 +22,7 @@ class TodoList extends Component {
 	render() {
 		let { todos, onTodoClick } = this.props
 		return (
-			<View style={styles.container}>
+			<TodoListContainer>
 				{
 					todos && todos.map(todo => 
 						<Todo 
@@ -33,7 +32,7 @@ class TodoList extends Component {
 						/>
 					)
 				}
-			</View>
+			</TodoListContainer>
 		)
 	}
 }
@@ -57,14 +56,5 @@ TodoList = connect(
 	mapStateToProps,
 	mapDispatchToProps)
 (TodoList)
-
-const styles = StyleSheet.create({
-	container: {
-		flex: 1,
-		justifyContent: 'flex-start',
-		width: width,
-		//alignItems: 'center',
-	}
-})
 
 export default TodoList
