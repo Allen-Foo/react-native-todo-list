@@ -6,14 +6,6 @@ import {Dimensions} from 'react-native';
 const {width, height} = Dimensions.get('window');
 
 
-const StyledView = styled.View`
-  background-color: papayawhip;
-`;
-
-const StyledText = styled.Text`
-  color: palevioletred;
-`;
-
 const TodoListContainer = styled.View`
   flex: 1;
   width: ${width};
@@ -28,5 +20,5 @@ const TodoItemRowContainer = styled.View`
 
 export {
   TodoListContainer,
-  TodoItemRowContainer
+  TodoItemRowContainer,
 }
